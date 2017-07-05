@@ -1,4 +1,4 @@
-# Mathesis-apps
+# Mathesis-Apps
 
 These apps were implemented during the course "Introduction in Python" of http://mathesis.cup.gr/
 
